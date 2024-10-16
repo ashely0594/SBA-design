@@ -1,0 +1,4 @@
+This project implements a data storage component with a custom range input styled 
+using HTML, CSS, and Bootstrap. The range input features a gradient some images and a logo
+also includes bootstrap components like input and card. Bootstrap was also used for some styling like display flex, and the input range that is disabled. 
+
