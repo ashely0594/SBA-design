@@ -63,4 +63,17 @@ body{background-color: hsl(246, 100%, 65%) !important;}
     font-size: 12px !important;
  }
 
-  
+  .document{
+    border: 3px solid hsl(229, 57%, 11%);
+    background-color: hsl(229, 57%, 11%) !important;
+    }
+
+  .folder{
+    border: 3px solid hsl(229, 57%, 11%);
+    background-color: hsl(229, 57%, 11%) !important;
+  }
+
+  .upload{
+    border: 3px solid hsl(229, 57%, 11%);
+    background-color: hsl(229, 57%, 11%) !important;
+  }

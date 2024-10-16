@@ -20,9 +20,9 @@
             <div class="card" id="curved" style="width: 18rem;">
                  <div class="card-body">
                   <img src="logo.svg" class="d-flex flex-column mb-3" style="width: 80px; margin-left: 10px;">
-                  <img src="icon-document.svg" style="margin-left: 15px;">
-                  <img src="icon-folder.svg"  style="margin-left: 10px;">
-                  <img src="icon-upload.svg" style="margin-left: 8px;">
+                  <img src="icon-document.svg" class="document" style="margin-left: 15px;">
+                  <img src="icon-folder.svg"  class="folder" style="margin-left: 10px;">
+                  <img src="icon-upload.svg" class="upload" style="margin-left: 8px;">
                   
                   
                 </div>
@@ -31,7 +31,7 @@
                  <div class="card-body">
                   <p class="card-title">You’ve used 815 GB of your storage</p>
                   <div class="range-level">
-                    <input type="range" class="form-range" min="0" max="1000" value="815">
+                    <input type="range" class="form-range"id="disabledRange" disabled min="0" max="1000" value="815">
                     <span>0 GB</span>
                     <span id="GB">1000 GB</span>
                   </div>
