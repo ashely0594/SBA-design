@@ -1,0 +1,27 @@
+
+
+
+body {
+    margin-top: 40px;
+    background-color: gray;
+}
+
+.box {
+    background-color: white;
+    border: 1px solid  gray;
+    min-height: 800px;
+    font-size: 2rem;
+}
+
+button {
+    background-color: rgb(247, 57, 193);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 7px;
+    
+}
+    
